@@ -1,0 +1,1 @@
+// it only exports a page/route component from main component 

@@ -1,0 +1,1 @@
+// it can be used to very generic constants. It is to be sparing used. Try to think if it can be catagorised in some entity or module e.g. BREAKPOINTS constant can be added in separate styles.ts file

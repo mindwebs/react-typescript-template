@@ -1,0 +1,1 @@
+// very generic types e.g T_GenericObject = {[key:string], any}. Should be used sparingly.

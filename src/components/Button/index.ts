@@ -1,0 +1,1 @@
+//  it only exports component from main component 

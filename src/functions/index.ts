@@ -1,0 +1,1 @@
+// it can store generic functions like toTitleCase that is being used throughout the project.

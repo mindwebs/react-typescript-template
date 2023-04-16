@@ -1,0 +1,1 @@
+// main file that exports the final page component. It is to be consumed via index.ts though for cleaner imports
